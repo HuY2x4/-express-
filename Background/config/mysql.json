@@ -1,0 +1,8 @@
+{
+	"host":"120.79.32.211",
+	"port":"3306",
+	"user":"hyx",
+	"password":"123456",
+	"database":"hzxtfmie",
+	"timezone":"08:00"
+}
